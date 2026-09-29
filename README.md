@@ -1,5 +1,5 @@
 ## About Me 
-Hi, I'm Melissa 
+Hi, I'm Melissa  
 Web development graduate who enjoys building clean, user-friendly websites and applications.
 ### What I Work With
 - HTML & CSS
