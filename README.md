@@ -16,7 +16,7 @@ I am a Web Development Graduate passionate about building clean, efficient, and 
 
 ### Featured Projects
 
-* * [Web Media Showcase](https://github.io) — A frontend portfolio demonstrating responsive UI layouts, interactive JavaScript DOM manipulation, and dynamic SVG animations.
+* * [Web Media Showcase](https://codedbymelissa.github.io/Web-Media) — A frontend portfolio demonstrating responsive UI layouts, interactive JavaScript DOM manipulation, and dynamic SVG animations.
   
 ---
 
