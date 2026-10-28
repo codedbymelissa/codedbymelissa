@@ -18,7 +18,7 @@ I am a Web Development Graduate passionate about building clean, efficient, and 
 
 * * [Web Media Showcase](https://codedbymelissa.github.io/Web-Media) — A frontend portfolio demonstrating responsive UI layouts, interactive JavaScript DOM manipulation, and dynamic SVG animations.
     
-** [Powerlifting Log](https://codedbymelissa.github.io/Powerlifting-DB) — A data project that loads my competition history into a SQLite database, analyzes it with SQL (joins, window functions, grouping), and uses Python to generate a static page with charts and tables.
+* * [Powerlifting Log](https://codedbymelissa.github.io/Powerlifting-DB) — A data project that loads my competition history into a SQLite database, analyzes it with SQL (joins, window functions, grouping), and uses Python to generate a static page with charts and tables.
   
 ---
 
